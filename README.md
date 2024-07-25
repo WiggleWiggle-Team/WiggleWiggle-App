@@ -1,1 +1,1 @@
-# WiggleWiggle-iOS
+# WiggleWiggle-App
