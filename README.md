@@ -1,1 +1,1 @@
-# WiggleWiggle-App
+# wigglewiggle-app
